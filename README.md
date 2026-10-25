@@ -1,35 +1,18 @@
 # oop-2026-Bunyayeva
 
+Репозиторій для виконання лабораторних робіт з дисципліни «Об'єктно-орієнтоване програмування».
+
 ## Інформація про студента
-Прізвище, Ім'я: Буняєва Ангеліна
+Студентка: Буняєва Ангеліна
 Варіант: 3
 Проєкт: AutoServiceApp
 
+## 📋 Опис лабораторних робіт
 
-## 📁 Структура репозиторію
+### Лабораторна робота №1 (`Labs/Lab01`)
+Тема: Базові сутності та структура проєкту.
+Реалізація: Створено класи `Car` та `Customer`, вивід початкової інформації про авто та клієнтів.
 
-text
-oop-2026-Bunyayeva/
-├── .gitignore
-├── README.md
-└── Labs/
-    ├── Lab01/
-    │   ├── Report/
-    │   ├── Source/
-    │   │   ├── Models/
-    │   │   │   ├── Car.cs
-    │   │   │   └── Customer.cs
-    │   │   ├── AutoServiceApp.csproj
-    │   │   ├── AutoServiceApp.slnx
-    │   │   └── Program.cs
-    │   └── submission.json
-    └── Lab02/
-        ├── Report/
-        ├── Source/
-        │   ├── Models/
-        │   │   ├── Car.cs
-        │   │   └── Customer.cs
-        │   ├── AutoServiceApp.csproj
-        │   ├── AutoServiceApp.slnx
-        │   └── Program.cs
-        └── submission.json
+### Лабораторна робота №2 (`Labs/Lab02`)
+Тема: Інкапсуляція, валідація даних та управління станом.
+Реалізація: Додано валідацію даних, відстеження стану ремонту (`IsUnderRepair`, `StartRepair()`, `FinishRepair()`) та обробку винятків `try-catch.
