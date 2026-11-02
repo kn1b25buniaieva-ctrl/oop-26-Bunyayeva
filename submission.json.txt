@@ -1,0 +1,9 @@
+{
+  "labNumber": 4,
+  "variant": 3,
+  "student": {
+    "surname": "Буняєва",
+    "name": "Ангеліна",
+    "group": "КN1-B25"
+  }
+}
